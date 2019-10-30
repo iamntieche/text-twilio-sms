@@ -32,3 +32,5 @@ local:
 #   service: Mirror
 #   primary: local
 #   mirrors: [ amazon, google, microsoft ]
+#secret_key_base: THERE WILL ALREADY BE SOME CRAZY STRING HERE. LEAVE IT THERE.
+ 
